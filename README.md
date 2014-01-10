@@ -6,9 +6,10 @@ I also transcript *A Word A Day* which is a service of [Wordsmith][wordsmith] an
 
 I also want to have here useful online tools like: 
 [Pons dictionary][ponsdictionary]
-
+[Verbix online conjugator][verbix]
 
 
 
 [wordsmith]: http://wordsmith.org/
 [ponsdictionary]: http://de.pons.eu/%C3%BCbersetzung
+[verbix]: http://www.verbix.com/languages/german.shtml
