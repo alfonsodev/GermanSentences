@@ -84,3 +84,40 @@ Besuchen Sie die Geheimen: Visit the secrets
 Besuchen Sie die Geheimen orte der Hauptstadt: Visit the secrets located in the capital
 
 ***
+
+##20140111
+This trendy and fun plastic camera is perfect for experimental photography. It features two objective lenses. 
+
+Elegant und witzig ist diese Plastikkamera, und wie gemacht für experimentelle Fotografie. Sie verfügt über eine Doppellinse. 
+
+`Pons translation`: This plastic camera is elegant and funny and as made for an experimental photography. She has a double lens. 
+
+###Word Analysis: 
+
+Elegant: ADJ Elegant
+
+Witzig: ADJ Funny 
+
+Plastikkamera: SUBST das Plastik <-s> die Kamera SUBST f <-, -s> Plastic Camera 
+
+Gemacht: SUBST nt das Gemächt <-[e]s, -e> Manhood 
+
+Experimentelle: Experimentell: ADV Experimental
+
+Fotografie: SUBST f die Fotografie <-, -n> Photography
+
+Verfügt: Verfugen VERB trans To point sth
+
+Doppellinse: SUBST m das Doppelins: double lens 
+
+###Sentence Analysis:
+
+Elegant und witzig ist diese Plastikkamera: This plastic camera is elegant and funny. 
+
+Und wie gemacht: And made 
+
+Und wie gemacht für experimentelle Fotogrfie: And made for experimental photography. 
+
+Sie verfügt über eine Doplelinse: She features a double lens. 
+
+***
