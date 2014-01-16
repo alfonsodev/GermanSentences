@@ -1,0 +1,11 @@
+Souce: http://www.verbix.com/languages/german.shtml
+
+Prsent: e, st, t, en, t (en), en
+Past: te, test, te, ten, tet, ten
+
+SEIN
+
+Present: bin, bist, ist, sind, seid, sind
+Past: war, warst, war, waren, wart, waren
+
+
