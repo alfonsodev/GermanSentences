@@ -121,3 +121,62 @@ Und wie gemacht für experimentelle Fotogrfie: And made for experimental photogr
 Sie verfügt über eine Doplelinse: She features a double lens. 
 
 ***
+
+##20140116
+
+###Schablone von Postkarte
+Lieber Mary,
+
+ich bin in Berlin. Die Zeit hier ist wirklich ganz toll. Die Leute sind alle sehr nett. Hier kann mal viel machen. Ich gehe gern ins Museum und abends ins Theater. Nachmittags trinke ich manchmal eine Tasse Kaffe und esse ein Stück Kuchen in einem Café. Abends treffe ich meistens Freunde und wir gehen in eine Kneipe. Morgen gehen wir zur Brandenburger Tor. Berlin ist super. 
+
+Bis bald, 
+Joaquin
+
+###Word Analysis: 
+Zeit: die Zeit: SUBST f, <-, -en> time
+wirklich: ADV really
+toll: ADJ fam, great, fantastic, terrific
+ganz: ADJ inv, all, whole. z. B: die ganze Zeit all the time
+Leute: SUBST pl people
+sehr: ADV very much, a lot
+nett: ADJ nice
+viel: PRON indef sing, a lot, much/many
+machen: VERB trans, to do sth
+gern: ADV, with pleasure
+Nachmittags: ADV, in the afternoon 
+manchmal: ADV sometimes
+Stück: <-[e]s, -e> SUBST nt, piece
+meistens: ADV, mostly
+Fruend: <-[e]s, -e> SUBST m(f), friend
+Kneipe: <-, -n> SUBST f fam, pub
+
+###Sentence Analysis:
+ganz toll: all great
+alle/keine/kaum Leute: everybody/nobody/hardly anybody
+sehr nett: very nice
+viel machen: to do a lot of things
+ich gehe gern ins Museum: I like to go to the museum
+Stück Kuchen: a pice of cake
+***
+
+##20140109
+###Word Analysis: 
+###Sentence Analysis:
+***
+
+##20140109
+###Word Analysis: 
+###Sentence Analysis:
+***
+
+##20140109
+###Word Analysis: 
+###Sentence Analysis:
+***
+
+##20140109
+###Word Analysis: 
+###Sentence Analysis:
+***
+
+
